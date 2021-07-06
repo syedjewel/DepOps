@@ -1,6 +1,6 @@
 # DepOps
 
-# Class two assignment prepation 
+# Class two assignment preparation 
 
 1. Preparing Environment in Windows 10
 2. Install the Oracle Virtual Box 
