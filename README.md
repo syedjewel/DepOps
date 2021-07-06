@@ -6,4 +6,5 @@
 2. Install the Oracle Virtual Box 
 3. Install the Ubuntu 20.04 LTS
 4. Install Docker in Ubuntu OS
-5. Create example of nginx  
+5. Install Visual Studio Code
+6. Create example of nginx  
